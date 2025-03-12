@@ -130,5 +130,5 @@ Feel free to reach out via:
 
 ---
 
-**© 2025 Mohit Sai Gutha** | Built with using **Azure, Databricks & Power BI**
+**© 2025 Mohit Sai Gutha** | Built using **Azure, Databricks & Power BI**
 
