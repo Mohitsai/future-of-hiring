@@ -123,7 +123,7 @@ This project is based on the work of **Maksim Kazartsev**, who originally implem
 
 ---
 
-## 📞 Contact
+## Contact
 Feel free to reach out via:
 - **[LinkedIn](https://www.linkedin.com/in/mohitsaigutha/)**
 - **[Email](mailto:mohit.sai6@gmail.com)**
