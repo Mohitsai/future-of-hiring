@@ -3,8 +3,6 @@
 ## Project Overview
 This project is an **end-to-end ETL (Extract, Transform, Load) pipeline** that automates the process of extracting **job market data in the United States** from the **Adzuna API**, transforming the raw data, and visualizing it using **Power BI**. The pipeline leverages **Azure Cloud Services**, including **Azure Functions, Data Factory, Databricks, and Delta Lake**, to provide scalable, efficient, and automated job market analytics.
 
-This project is inspired by and adapted from **[Maksim Kazartsev's project](https://github.com/kazarmax/adzuna_etl_azure)**, which implemented a similar pipeline for job market data in **Canada**.
-
 ## Key Features
 - **Automated Data Extraction**: Uses **Azure Functions** to fetch **real-time job listings** from the Adzuna API for jobs in the **United States**.
 - **Secure Data Storage**: Stores raw job data in **Azure Data Lake Storage Gen2**, with **Azure Key Vault** managing API credentials securely.
@@ -117,9 +115,7 @@ Below is an overview of the solution architecture:
 This project is based on the work of **Maksim Kazartsev**, who originally implemented a **similar ETL pipeline for Canada**. You can check out his project here: [GitHub Repository](https://github.com/kazarmax/adzuna_etl_azure).
 
 ### **Fair Use & Contribution**
-- If you use this repository, **please give credit**.
-- Modify the **Google Analytics tracking ID** if applicable.
-- **Star this repo** ⭐ if you find it helpful!
+- If you use this repository, **please give credit** to Maksim.
 
 ---
 
